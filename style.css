@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(225, 222, 219);
+}
+
+.mainbody {
+    width: 270px;
+    box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.5);
+    border: 1px solid rgb(241, 237, 237) ;
+    border-radius: 14px;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+}
+
+.qr-img{
+    width: 100%;
+    border-radius: 7px;
+}
